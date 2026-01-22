@@ -9,12 +9,12 @@ The system is optimized for **batch execution** to avoid memory overflow and sup
 ## 📁 Project Structure
 
 This repository consists of **four core Python modules**:
-
+```
 ├── main_2.0.py
 ├── data_storage_new.py
 ├── calculate_icir_new.py
 └── calculate_returns_new.py
-
+```
 ### Module Overview
 
 - **`main_2.0.py`**  
